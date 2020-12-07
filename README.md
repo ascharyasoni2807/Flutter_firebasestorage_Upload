@@ -3,9 +3,26 @@
 A new Flutter project.
 
 
-DEMO_LINK=   https://drive.google.com/drive/folders/1b1WBNgvfK_yzmrWQKfZV7e3GknALv_wj?usp=sharing
+DEMO_LINK=  ![video_here](https://drive.google.com/drive/folders/1b1WBNgvfK_yzmrWQKfZV7e3GknALv_wj?usp=sharing)
 
 ## Getting Started
+Requirement-  VS CODE (for opening project)  , ANDROID STUDIO (if want emulator)  or directly with the debuggung device
+
+
+Step 1
+      Setup flutter Environment  first and Emulator( or your android device)
+
+Step 2
+      open lib -> main.dart 
+      
+      And run without debugging (in VS code)
+
+
+
+
+
+
+
 
 This project is a starting point for a Flutter application.
 
