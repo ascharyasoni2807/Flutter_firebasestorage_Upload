@@ -3,7 +3,7 @@
 A new Flutter project.
 
 
-DEMO_LINK=  ![video_here](https://drive.google.com/drive/folders/1b1WBNgvfK_yzmrWQKfZV7e3GknALv_wj?usp=sharing)
+DEMO_LINK=https://drive.google.com/drive/folders/1b1WBNgvfK_yzmrWQKfZV7e3GknALv_wj?usp=sharing
 
 ## Getting Started
 Requirement-  VS CODE (for opening project)  , ANDROID STUDIO (if want emulator)  or directly with the debuggung device
